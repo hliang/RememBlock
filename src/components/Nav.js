@@ -9,10 +9,11 @@ class Nav extends Component {
                         <a href="/">RememBlock</a>
                     </li>
                     <li className="nav-item">
-                        <div>Click a block to begin!</div>
+                        <div>{this.props.message}</div>
                     </li>
                     <li className="nav-item">
-                        <div>Scores</div>
+                        <div>Score: {this.props.currScore} | Top Score: {this.props.topScore}</div>
+                        <span id="toglehint" className="hint" onClick={this.props.toggleHint}>Hint: {this.props.showHint ? "ON" : "OFF"}</span>
                     </li>
                 </ul>
             </nav>

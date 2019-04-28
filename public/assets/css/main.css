@@ -156,7 +156,7 @@
     background-position: 50%;
     height: 170px;
     width: 170px;
-    margin: 8px 25px;
+    margin: 8px 10px;
     border: 5px solid #f1f1f1;
     border-radius: 3px;
     -webkit-box-shadow: 0 3px 6px rgba(0,0,0,.16),0 3px 6px rgba(0,0,0,.23);
@@ -221,13 +221,17 @@
 
 @media (max-width: 750px) {
     .click-item {
-        margin:10px
+        width: 20%;
+        height: 20%;
+        margin: 8px
     }
 }
 
 @media (max-width: 500px) {
     .click-item {
-        margin:10px
+        width: 20%;
+        height: 20%;
+        margin: 5px
     }
 }
 
@@ -270,11 +274,22 @@
 }
 
 main.container {
-    padding-top: 70px;
+    padding-top: 90px;
 }
 
 .octicon {
     display: inline-block;
     fill: currentColor;
     vertical-align: text-top;
+}
+
+.hint {
+    text-align: center;
+}
+.hint span {
+    padding: 2px 5px;
+}
+
+.nav-item .hint {
+    font-size: 80%;
 }

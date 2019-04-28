@@ -1,12 +1,11 @@
 import React, { Component } from "react";
 
 class Main extends Component {
-    imgArr = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l"];
 
     // list item
-    clickitem(i) {
+    blockItem(i) {
         return (
-            <div key={i} className="click-item">
+            <div key={i} name={i} className={"click-item" + (this.props.shake ? " shake" : "")} onClick={() => this.props.callbackFromParent(i)}>
                 <img src={"/assets/img/" + i + ".jpeg"}  alt={i}></img>
             </div>
         );
@@ -16,8 +15,7 @@ class Main extends Component {
     render() {
         return (
             <main className="container">
-                {this.imgArr.map( item => {return this.clickitem(item)}
-                )}
+                {this.props.blocksArr.map( item => {return this.blockItem(item)})}
             </main>
         );
     }
