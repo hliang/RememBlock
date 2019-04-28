@@ -5,7 +5,7 @@ Play it here: https://hliang.github.io/RememBlock/
 <img alt="demo-gif" src="./public/assets/img/rememblock.gif">
 
 ### Game Rules
-- Click a block earn points, don't click a block more than once.
+- Click a block to earn points, don't click the same block more than once.
 - Every time a block is clicked, the blocks shuffle in a random order.
 - You get one point every time you click.
 - Game over if there is an incorrect guess. A new game will start.
