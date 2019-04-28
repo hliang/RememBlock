@@ -1,3 +1,7 @@
+body {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/light-grey-terrazzo.png);
+}
+
 .navbar .correct {
     -webkit-animation: .4s correct;
     animation: .4s correct

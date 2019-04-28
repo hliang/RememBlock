@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/RememBlock/static/css/main.795991f2.chunk.css",
-    "main.js": "/RememBlock/static/js/main.25feb3f9.chunk.js",
-    "main.js.map": "/RememBlock/static/js/main.25feb3f9.chunk.js.map",
+    "main.js": "/RememBlock/static/js/main.8396d726.chunk.js",
+    "main.js.map": "/RememBlock/static/js/main.8396d726.chunk.js.map",
     "runtime~main.js": "/RememBlock/static/js/runtime~main.a509e20b.js",
     "runtime~main.js.map": "/RememBlock/static/js/runtime~main.a509e20b.js.map",
     "static/js/2.6408f43b.chunk.js": "/RememBlock/static/js/2.6408f43b.chunk.js",
     "static/js/2.6408f43b.chunk.js.map": "/RememBlock/static/js/2.6408f43b.chunk.js.map",
     "index.html": "/RememBlock/index.html",
-    "precache-manifest.3c80dd46ba986f7519d469312339d1c7.js": "/RememBlock/precache-manifest.3c80dd46ba986f7519d469312339d1c7.js",
+    "precache-manifest.657fc4c957ffc527b34dabe1ed691e61.js": "/RememBlock/precache-manifest.657fc4c957ffc527b34dabe1ed691e61.js",
     "service-worker.js": "/RememBlock/service-worker.js",
     "static/css/main.795991f2.chunk.css.map": "/RememBlock/static/css/main.795991f2.chunk.css.map"
   }

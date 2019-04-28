@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b497c5980db5d385e9658ace7629c431",
+    "revision": "ab6e1f47f55fd7af3ce644b21f321877",
     "url": "/RememBlock/index.html"
   },
   {
-    "revision": "e8fdb781e15b9b72dba7",
+    "revision": "b779588771c917adb0de",
     "url": "/RememBlock/static/css/main.795991f2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RememBlock/static/js/2.6408f43b.chunk.js"
   },
   {
-    "revision": "e8fdb781e15b9b72dba7",
-    "url": "/RememBlock/static/js/main.25feb3f9.chunk.js"
+    "revision": "b779588771c917adb0de",
+    "url": "/RememBlock/static/js/main.8396d726.chunk.js"
   },
   {
     "revision": "b85266fbe32007c7c5e7",
