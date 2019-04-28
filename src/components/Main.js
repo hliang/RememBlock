@@ -6,7 +6,7 @@ class Main extends Component {
     blockItem(i) {
         return (
             <div key={i} name={i} className={"click-item" + (this.props.shake ? " shake" : "")} onClick={() => this.props.callbackFromParent(i)}>
-                <img src={"/assets/img/" + i + ".jpeg"}  alt={i}></img>
+                <img src={"./assets/img/" + i + ".jpeg"}  alt={i}></img>
             </div>
         );
     }

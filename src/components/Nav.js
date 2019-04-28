@@ -6,7 +6,7 @@ class Nav extends Component {
             <nav className="navbar">
                 <ul>
                     <li className="brandname">
-                        <a href="/">RememBlock</a>
+                        <a href="/RememBlock">RememBlock</a>
                     </li>
                     <li className="nav-item">
                         <div>{this.props.message}</div>
