@@ -15,7 +15,7 @@ class Footer extends Component {
                     <a href="https://github.com/hliang/rememblock">
                         {this.githublogo()}
                         source code
-                        <img alt="react" src="/assets/img/react.svg" />
+                        <img alt="react" src="./assets/img/react.svg" />
                     </a>
                 </div>
             </div>
