@@ -92,7 +92,6 @@ class App extends Component {
           topScore={this.state.topScore}
           message={this.state.message}
           showHint={this.state.showHint}
-          toggleHint={this.toggleHint}
         />
 
         {/* main content */}
@@ -103,9 +102,7 @@ class App extends Component {
         />
 
         {/* show hint */}
-        {
-          this.state.showHint && <Hint alreadyClickedArr={this.state.alreadyClickedArr}/> 
-        }
+        <Hint alreadyClickedArr={this.state.alreadyClickedArr} showHint={this.state.showHint} toggleHint={this.toggleHint} /> 
 
         {/* footer */}
         <Footer></Footer>

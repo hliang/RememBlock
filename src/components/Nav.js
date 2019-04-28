@@ -13,7 +13,6 @@ class Nav extends Component {
                     </li>
                     <li className="nav-item">
                         <div>Score: {this.props.currScore} | Top Score: {this.props.topScore}</div>
-                        <span id="toglehint" className="hint" onClick={this.props.toggleHint}>Hint: {this.props.showHint ? "ON" : "OFF"}</span>
                     </li>
                 </ul>
             </nav>
