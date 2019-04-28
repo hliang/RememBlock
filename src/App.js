@@ -16,7 +16,8 @@ const imgPools = [
   {"name": "Miss Korean", "imgArray": ["mk_0", "mk_1", "mk_10", "mk_11", "mk_12", "mk_13", "mk_14", "mk_15", "mk_16", "mk_17", "mk_2", "mk_3", "mk_4", "mk_5", "mk_6", "mk_7", "mk_8", "mk_9"]},
   {"name": "Dog Head", "imgArray": ["dh_0", "dh_1", "dh_10", "dh_11", "dh_12", "dh_13", "dh_14", "dh_15", "dh_2", "dh_3", "dh_4", "dh_5", "dh_6", "dh_7", "dh_8", "dh_9"]},
   {"name": "Fish", "imgArray": ["fish_0", "fish_1", "fish_10", "fish_11", "fish_12", "fish_13", "fish_14", "fish_15", "fish_16", "fish_17", "fish_18", "fish_19", "fish_2", "fish_3", "fish_4", "fish_5", "fish_6", "fish_7", "fish_8", "fish_9"]},
-  {"name": "Lips", "imgArray": ["lips_1", "lips_10", "lips_11", "lips_12", "lips_13", "lips_14", "lips_15", "lips_16", "lips_17", "lips_18", "lips_19", "lips_2", "lips_20", "lips_3", "lips_4", "lips_5", "lips_6", "lips_7", "lips_8", "lips_9"]}
+  {"name": "Lips", "imgArray": ["lips_1", "lips_10", "lips_11", "lips_12", "lips_13", "lips_14", "lips_15", "lips_16", "lips_17", "lips_18", "lips_19", "lips_2", "lips_20", "lips_3", "lips_4", "lips_5", "lips_6", "lips_7", "lips_8", "lips_9"]},
+  {"name": "NBA", "imgArray": ["nba_76er", "nba_bobc", "nba_buck", "nba_bull", "nba_cava", "nba_celt", "nba_clip", "nba_grizz", "nba_hawk", "nba_hawk2", "nba_heat", "nba_jazz", "nba_jazz2", "nba_kick", "nba_king", "nba_laker", "nba_magi", "nba_mav", "nba_mav2", "nba_nets", "nba_nugg", "nba_pace", "nba_pist", "nba_rapt", "nba_rock", "nba_rock2", "nba_soni", "nba_sonic", "nba_spur", "nba_sun", "nba_timb", "nba_trail", "nba_warr", "nba_wasp", "nba_wizz"]},
 ]
 
 class App extends Component {
