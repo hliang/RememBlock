@@ -1,5 +1,7 @@
 # RememBlock - a memory game
 
+Play it here: https://hliang.github.io/RememBlock/
+
 <img alt="demo-gif" src="./public/assets/img/rememblock.gif">
 
 ### Game Rules
