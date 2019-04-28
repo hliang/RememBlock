@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RememBlock/static/css/main.795991f2.chunk.css",
+    "main.js": "/RememBlock/static/js/main.9e9ae3af.chunk.js",
+    "main.js.map": "/RememBlock/static/js/main.9e9ae3af.chunk.js.map",
+    "runtime~main.js": "/RememBlock/static/js/runtime~main.a509e20b.js",
+    "runtime~main.js.map": "/RememBlock/static/js/runtime~main.a509e20b.js.map",
+    "static/js/2.6408f43b.chunk.js": "/RememBlock/static/js/2.6408f43b.chunk.js",
+    "static/js/2.6408f43b.chunk.js.map": "/RememBlock/static/js/2.6408f43b.chunk.js.map",
+    "index.html": "/RememBlock/index.html",
+    "precache-manifest.3dcd3a382ba3471868a8fd8d4cc93b2b.js": "/RememBlock/precache-manifest.3dcd3a382ba3471868a8fd8d4cc93b2b.js",
+    "service-worker.js": "/RememBlock/service-worker.js",
+    "static/css/main.795991f2.chunk.css.map": "/RememBlock/static/css/main.795991f2.chunk.css.map"
+  }
+}
